@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/NewsWhisper/static/css/main.a4a20492.chunk.css",
+    "main.js": "/NewsWhisper/static/js/main.0baff3a6.chunk.js",
+    "main.js.map": "/NewsWhisper/static/js/main.0baff3a6.chunk.js.map",
+    "runtime-main.js": "/NewsWhisper/static/js/runtime-main.43847d9c.js",
+    "runtime-main.js.map": "/NewsWhisper/static/js/runtime-main.43847d9c.js.map",
+    "static/js/2.59692717.chunk.js": "/NewsWhisper/static/js/2.59692717.chunk.js",
+    "static/js/2.59692717.chunk.js.map": "/NewsWhisper/static/js/2.59692717.chunk.js.map",
+    "static/js/3.b39e166a.chunk.js": "/NewsWhisper/static/js/3.b39e166a.chunk.js",
+    "static/js/3.b39e166a.chunk.js.map": "/NewsWhisper/static/js/3.b39e166a.chunk.js.map",
+    "index.html": "/NewsWhisper/index.html",
+    "static/css/main.a4a20492.chunk.css.map": "/NewsWhisper/static/css/main.a4a20492.chunk.css.map",
+    "static/js/2.59692717.chunk.js.LICENSE.txt": "/NewsWhisper/static/js/2.59692717.chunk.js.LICENSE.txt",
+    "static/js/main.0baff3a6.chunk.js.LICENSE.txt": "/NewsWhisper/static/js/main.0baff3a6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43847d9c.js",
+    "static/js/2.59692717.chunk.js",
+    "static/css/main.a4a20492.chunk.css",
+    "static/js/main.0baff3a6.chunk.js"
+  ]
+}
